@@ -1,0 +1,34 @@
+{
+    "MonHoc":[
+        {
+            "id":1,
+            "TenMon":"Android",
+            "NganhHoc":"CNTT",
+            "image" : [
+                {
+                    "url":"./image/thumb1.png"
+                }
+            ]
+       },
+       {
+            "id":2,
+            "TenMon":"AnToanWeb",
+            "NganhHoc":"CNTT",
+            "image" : [
+                {
+                    "url":"./image/thumb1.png"
+                }
+            ]
+       },
+       {
+            "id":3,
+            "TenMon":"LapTrinhHuongDoiTuong",
+            "NganhHoc":"CNTT",
+            "image" : [
+                {
+                    "url":"./image/thumb1.png"
+                }
+            ]
+        }
+    ]
+}
